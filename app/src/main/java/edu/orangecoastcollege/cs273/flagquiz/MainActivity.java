@@ -225,7 +225,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    // Override onCreateOptionsMenu to inflate the settings menu 11
+    // Override onCreateOptionsMenu to inflate the settings menu
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
